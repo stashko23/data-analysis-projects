@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alakaevskoye",
+        "ID": 2595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.845714, 53.418919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angaro-Lenskoye",
+        "ID": 3347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.906632, 55.146998]
+      }
+    }
+  ]
+}
