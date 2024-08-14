@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Alakaevskoye",
-        "ID": 2595
+        "Object name": "Alakaevskoye",
+        "Column1": 2595
       },
       "geometry": {
         "type": "Point",
@@ -15,8 +15,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Angaro-Lenskoye",
-        "ID": 3347
+        "Object name": "Angaro-Lenskoye",
+        "Column1": 3347
       },
       "geometry": {
         "type": "Point",
