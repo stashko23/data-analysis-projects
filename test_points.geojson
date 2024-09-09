@@ -4,8 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Object name": "Alakaevskoye",
-        "Icon": "https://wdfiles.ru/plugins/imageviewer/site/thumb.php?s=29aI3&/free-icon-location-16166434.png"
+        "Object name": "Alakaevskoye"
       },
       "geometry": {
         "type": "Point",
@@ -15,8 +14,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Object name": "Angaro-Lenskoye", 
-        "Icon": "https://wdfiles.ru/plugins/imageviewer/site/thumb.php?s=29aI3&/free-icon-location-16166434.png"
+        "Object name": "Angaro-Lenskoye"
       },
       "geometry": {
         "type": "Point",
